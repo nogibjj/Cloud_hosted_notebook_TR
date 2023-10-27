@@ -29,7 +29,7 @@ The purpose of this project is applying Cloud-Hosted Notebook Data Manipulation.
 
 
 ## Google Colab
-![Colab]{https://colab.research.google.com/github/nogibjj/Cloud_hosted_notebook_TR/blob/main/main.ipynb}
+[Colab]{https://colab.research.google.com/github/nogibjj/Cloud_hosted_notebook_TR/blob/main/main.ipynb}
 
 ## Dataset
 The experimental dataset is Eletric Vehicle Population Data that provided by DATA.GOV. Here I downloaded the .csv file and made it the dataset for testing. The url address is https://catalog.data.gov/dataset/electric-vehicle-population-data. I used `pd.read_csv()` to read this dataset and save as a `pd.DataFrame`.
