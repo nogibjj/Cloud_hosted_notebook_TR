@@ -1,6 +1,12 @@
 # Week 9: Cloud-Hosted Notebook Data Manipulation
 Tianji Rao
 
+
+[![Install](https://github.com/nogibjj/Cloud_hosted_notebook_TR/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/Cloud_hosted_notebook_TR/actions/workflows/install.yml)
+[![Format](https://github.com/nogibjj/Cloud_hosted_notebook_TR/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/Cloud_hosted_notebook_TR/actions/workflows/format.yml)
+[![Lint](https://github.com/nogibjj/Cloud_hosted_notebook_TR/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/Cloud_hosted_notebook_TR/actions/workflows/lint.yml)
+[![Test](https://github.com/nogibjj/Cloud_hosted_notebook_TR/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/Cloud_hosted_notebook_TR/actions/workflows/test.yml)
+
 ## Overview
 This repo contains:   
 - .devcontainer     
