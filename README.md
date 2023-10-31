@@ -29,7 +29,16 @@ The purpose of this project is applying Cloud-Hosted Notebook Data Manipulation.
 
 
 ## Google Colab
-[Colab]{https://colab.research.google.com/github/nogibjj/Cloud_hosted_notebook_TR/blob/main/main.ipynb}
+[Colab]{https://colab.research.google.com/github/nogibjj/Cloud_hosted_notebook_TR/blob/main/main.ipynb}\
+### Open the Jupyter Notebook in Colab
+1. Search this repo and load the notebook in this repo.
+![Screenshot 2023-10-30 at 11 03 55 PM](https://github.com/nogibjj/Cloud_hosted_notebook_TR/assets/104114843/65af3a50-3524-4622-9ea5-f598c7845822)
+
+2. Open and modify the notebook
+![Screenshot 2023-10-30 at 11 04 11 PM](https://github.com/nogibjj/Cloud_hosted_notebook_TR/assets/104114843/68a4ea4d-667b-420b-a2a0-47dd784b1690)
+
+3. Connect from colab to github and save the copy
+![Screenshot 2023-10-30 at 11 05 23 PM](https://github.com/nogibjj/Cloud_hosted_notebook_TR/assets/104114843/d9a2ab5f-1ff1-4ac1-86a8-1f8c22dcc235)
 
 ## Dataset
 The experimental dataset is Eletric Vehicle Population Data that provided by DATA.GOV. Here I downloaded the .csv file and made it the dataset for testing. The url address is https://catalog.data.gov/dataset/electric-vehicle-population-data. I used `pd.read_csv()` to read this dataset and save as a `pd.DataFrame`.
